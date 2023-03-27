@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Archisha Gupta</h1>
 <h3 align="center">Currently studying at Indian Institute of Technology, Kharagpur</h3>
--  How to reach me <a href="archisha394@gmail.com" target="blank">
+-  How to reach me <a href="archisha394@gmail.com" target="blank">archisha394@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
