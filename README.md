@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Archisha Gupta</h1>
 <h3 align="center">Currently studying at Indian Institute of Technology, Kharagpur</h3>
+<h3 align="center">Machine Learning and Deep Learning Enthusiast</h3>
 -  You reach me at <a href="archisha394@gmail.com" target="blank">archisha394@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
