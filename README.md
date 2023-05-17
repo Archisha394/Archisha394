@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/archisha-gupta-a6831a227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archisha gupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/archisha-gupta-a6831a227/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw3n0ysesoYMbe3R8tbzEsZt&ust=1684384512762000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiDvrbD-_4CFQAAAAAdAAAAABAE" alt="archisha gupta" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/archishagupta394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="archishagupta394" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100075216734906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="archisha gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/_archisha_394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_archisha_394" height="30" width="40" /></a>
