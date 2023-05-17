@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archisha394&label=Profile%20views&color=0e75b6&style=flat" alt="archisha394" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 **Machine Learning** and **Deep Learning** enthusiast
 
 - 📫 How to reach me **archisha394@gmail.com**
 
