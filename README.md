@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archisha394&label=Profile%20views&color=0e75b6&style=flat" alt="archisha394" /> </p>
 
-- 🔭 I’m currently working on **Roarink App**
+- 🔭 I’m currently working on my **Competetive Programming** skills
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 📫 How to reach me **archisha394@gmail.com**
 
