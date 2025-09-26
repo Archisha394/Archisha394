@@ -1,11 +1,11 @@
 <a align="centre" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=962&center=true&multiline=true&random=false&width=755&height=70&lines=Hi+!+I+am+Archisha+Gupta;Welcome+to+my+Github" alt="Hi ! I am Archisha Gupta" /></a>
-<h3 align="center">Currently studying at Indian Institute of Technology, Kharagpur</h3>
+<h3 align="center">Final Y ear student at Indian Institute of Technology, Kharagpur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archisha394&label=Profile%20views&color=0e75b6&style=flat" alt="archisha394" /> </p>
 
 - 🔭 I’m currently working on my **Competetive Programming** skills
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📫 How to reach me **archisha394@gmail.com**
 
